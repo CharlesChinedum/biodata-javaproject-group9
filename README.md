@@ -38,9 +38,9 @@ Programming Concepts Used:
 
 ### LIST OF ALL THE GROUP MEMBERS AND THEIR CONTRIBUTIONS TO THE PROJECT
 
-|   **S/N**    |   **Full Name**   |      **Reg Number**       | **Contributions** |
-| :----------: | :---------------: | :-----------------------: | :---------------: |
-| 1. Agbo Kate | Ngozi 2019/245417 | Coding & programming Team |
+| **S/N** | **Full Name** |  **Reg Number**   |     **Contributions**     |
+| :-----: | :-----------: | :---------------: | :-----------------------: |
+|   1.    |   Agbo Kate   | Ngozi 2019/245417 | Coding & programming Team |
 
 2. Aki Kenechukwu Michael
 3. Ani Chukwuemeka Christian 2020/244865 Research & Sorting Team
