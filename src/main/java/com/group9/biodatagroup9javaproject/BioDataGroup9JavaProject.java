@@ -33,9 +33,6 @@ public class BioDataGroup9JavaProject {
  long phoneNumber;
  char gender;
  
- 
- 
- 
  Scanner GroupNine = new Scanner(System.in);
  
  System.out.println(" WELCOME TO UNIVERSITY OF NIGERIA NSUKKA, STUDENT PORTAL: ");
