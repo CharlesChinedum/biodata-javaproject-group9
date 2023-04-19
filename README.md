@@ -69,4 +69,4 @@ Programming Concepts Used:
 |   27.   |         Olowa Emmanuel         |  2020/244893   | Data Validation & error handling Team |
 |   28.   |      Onyeahialam Crown I       |  2020/248338   |  Confirmed Submission of repository   |
 |   29.   |     Udeh Chijioke Innocent     |  2019/246048   |       Compiling the Group list        |
-|   30.   |     Ugbor Charles Chinedum     |  2020/244910   | Data Validation & error handling Tea  |
+|   30.   |     Ugbor Charles Chinedum     |  2020/244910   | Data Validation & error handling Team |
