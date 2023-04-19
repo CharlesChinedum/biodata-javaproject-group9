@@ -39,7 +39,7 @@ Programming Concepts Used:
 ### LIST OF ALL THE GROUP MEMBERS AND THEIR CONTRIBUTIONS TO THE PROJECT
 
 | **S/N** |         **Full Name**          | **Reg Number** |           **Contributions**           |
-| :-----: | :----------------------------: | :------------: | :-----------------------------------: | ---------- |
+| :-----: | :----------------------------: | :------------: | :-----------------------------------: |
 |   1.    |        Agbo Kate Ngozi         |  2019/245417   |       Coding & programming Team       |
 |   2.    |     Aki Kenechukwu Michael     |
 |   3.    |   Ani Chukwuemeka Christian    |  2020/244865   |        Research & Sorting Team        |
@@ -63,7 +63,7 @@ Programming Concepts Used:
 |   21.   |     King Wise Chimdiebube      |  2019/247862   |       File & Data Storage Team        |
 |   22.   |   Nwalu Christian Uchechukwu   |  2020/245110   |       Testing & Debugging Team        |
 |   23.   |     Nwankwo Ekene Harrison     |  2020/244908   |    Reporting & Data Analysis Team     |
-|   24.   |      Obi Agatha Chidinma       |  2020/248515   |                MS word                | Formatting |
+|   24.   |      Obi Agatha Chidinma       |  2020/248515   |          MS word Formatting           |
 |   25.   |      Okeke Ekene Kingsley      |  2020/249317   |         Gallery & pdf merging         |
 |   26.   |     Okpara Omarion Samuel      |  2020/245000   |             Snipping tool             |
 |   27.   |         Olowa Emmanuel         |  2020/244893   | Data Validation & error handling Team |
