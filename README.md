@@ -14,20 +14,24 @@ Programming Concepts Used:
    String data type was used to store names while the int data type was used to store numerical values.
 4. Conditional Statements: The switch statement was used in this program to compare the user's input
    character to known values and print out the corresponding gender.
+   
    Challenges Faced:
    One main challenge faced during the development of this program was handling errors that could occur
    when the user inputs incorrect data types. For example, if a user enters a string where an integer is
    expected, it will result in an error. It can also be challenging to handle unexpected behavior such as a user
    entering negative numbers for their age or phone number. Another challenge faced was writing clean and
    efficient code that follows programming best practices.
+   
    How Challenges Were Overcome:
    To overcome the issue of handling input errors, we added validation checks to ensure that the user inputs
    the correct data type. For example, we employed the try-catch block to catch exceptions that might arise
    from parsing a string into an integer. Additionally, we included checks to confirm that the user's input for
    age and phone number were not negative.
+   
    To overcome the challenge of writing clean and efficient code, we ensured that we followed programming
    best practices such as using meaningful variable names to make the code more readable and
    understandable. We also made sure that the code was well-structured and commented where necessary.
+   
    Conclusion:
    The User Biodata Program is a simple yet useful program that allows users to input their biodata
    information. Through this project, we gained hands-on experience in programming concepts such as
@@ -35,6 +39,7 @@ Programming Concepts Used:
    development of this program allowed us to gain a deeper understanding of these concepts and how they
    can be applied in real-life situations. Overall, this project provided us with valuable insights into the world
    of programming and enabled us to further develop our programming skills.
+  
 
 ### LIST OF ALL THE GROUP MEMBERS AND THEIR CONTRIBUTIONS TO THE PROJECT
 
